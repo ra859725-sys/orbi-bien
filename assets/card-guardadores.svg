@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Guardadores de decks</title>
+  <desc id="desc">Deck boxes minimalistas con estilo espacial.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090713"/><stop offset="1" stop-color="#2e1065"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="900" height="650" rx="42" fill="url(#bg)"/>
+  <path d="M90 525h720" stroke="#c4b5fd" stroke-opacity=".2"/>
+  <g filter="url(#g)"><circle cx="665" cy="140" r="68" fill="#7c3aed" opacity=".34"/><ellipse cx="665" cy="140" rx="116" ry="28" fill="none" stroke="#f5f3ff" stroke-opacity=".55" stroke-width="4" transform="rotate(-16 665 140)"/></g>
+  <g transform="translate(175 190)"><rect width="180" height="245" rx="26" fill="#141124" stroke="#a78bfa" stroke-width="4"/><path d="M0 78h180" stroke="#ffffff" stroke-opacity=".12" stroke-width="3"/><text x="90" y="140" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#fff">TCG</text></g>
+  <g transform="translate(360 145)"><rect width="180" height="290" rx="26" fill="#201439" stroke="#ddd6fe" stroke-width="4"/><path d="M0 92h180" stroke="#ffffff" stroke-opacity=".12" stroke-width="3"/><text x="90" y="160" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#fff">DECK</text></g>
+  <g transform="translate(545 220)"><rect width="180" height="215" rx="26" fill="#141124" stroke="#a78bfa" stroke-width="4"/><path d="M0 68h180" stroke="#ffffff" stroke-opacity=".12" stroke-width="3"/><text x="90" y="125" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#fff">BOX</text></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Comunidad TCG</title>
+  <desc id="desc">Encuentro local TCG con mesa, cartas y órbitas.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07060d"/><stop offset="1" stop-color="#271052"/></linearGradient><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient></defs>
+  <rect width="900" height="650" rx="42" fill="url(#bg)"/>
+  <ellipse cx="450" cy="340" rx="315" ry="80" fill="none" stroke="#a78bfa" stroke-opacity=".4" stroke-width="5" transform="rotate(-8 450 340)"/>
+  <path d="M210 475 330 250h240l120 225Z" fill="#0f0b1e" stroke="#a78bfa" stroke-opacity=".55" stroke-width="4"/>
+  <path d="M260 435h380" stroke="url(#l)" stroke-width="4"/>
+  <g transform="translate(348 285) rotate(-8)"><rect width="80" height="116" rx="12" fill="#f5f3ff" opacity=".83"/><rect x="13" y="15" width="54" height="86" rx="7" fill="#090713"/></g>
+  <g transform="translate(472 285) rotate(8)"><rect width="80" height="116" rx="12" fill="#f5f3ff" opacity=".83"/><rect x="13" y="15" width="54" height="86" rx="7" fill="#090713"/></g>
+  <circle cx="185" cy="210" r="45" fill="#7c3aed" opacity=".35"/><circle cx="710" cy="170" r="55" fill="#ddd6fe" opacity=".12"/><circle cx="725" cy="184" r="22" fill="#8b5cf6" opacity=".28"/>
+  <text x="450" y="555" text-anchor="middle" font-family="Arial" font-size="32" font-weight="800" letter-spacing="7" fill="#c4b5fd">COMUNIDAD LOCAL</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">La órbita cambia</title>
+  <desc id="desc">Una tienda minimalista espacial con mostrador, productos TCG y luces violetas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05040a"/><stop offset=".56" stop-color="#151025"/><stop offset="1" stop-color="#2e1065"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="700" fill="url(#bg)"/>
+  <path d="M0 610h1600" stroke="#ffffff" stroke-opacity=".09" stroke-width="3"/>
+  <path d="M120 610 340 240h920l220 370" fill="#0b0913" stroke="#6d28d9" stroke-opacity=".38" stroke-width="3"/>
+  <rect x="415" y="252" width="770" height="280" rx="26" fill="#080710" stroke="#7c3aed" stroke-opacity=".6"/>
+  <rect x="473" y="310" width="138" height="166" rx="16" fill="#ffffff" opacity=".12"/>
+  <rect x="649" y="310" width="138" height="166" rx="16" fill="#ffffff" opacity=".12"/>
+  <rect x="825" y="310" width="138" height="166" rx="16" fill="#ffffff" opacity=".12"/>
+  <rect x="1001" y="310" width="138" height="166" rx="16" fill="#ffffff" opacity=".12"/>
+  <rect x="340" y="535" width="920" height="88" rx="22" fill="#110d21" stroke="#a78bfa" stroke-opacity=".4"/>
+  <path d="M520 578h560" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+  <circle cx="800" cy="185" r="74" fill="#8b5cf6" opacity=".3" filter="url(#glow)"/>
+  <ellipse cx="800" cy="185" rx="156" ry="38" fill="none" stroke="#fff" stroke-opacity=".58" stroke-width="3" transform="rotate(-14 800 185)"/>
+  <text x="800" y="160" text-anchor="middle" font-family="Montserrat, Inter, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="8" fill="#ffffff" opacity=".94">ÓRBITA TCG</text>
+  <text x="800" y="662" text-anchor="middle" font-family="Montserrat, Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="7" fill="#c4b5fd">SANTA FE CAPITAL</text>
+</svg>
